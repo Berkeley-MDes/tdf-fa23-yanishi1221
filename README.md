@@ -29,4 +29,4 @@
   
 - [Report 15 - Week of 12/07/23](https://github.com/Berkeley-MDes/tdf-fa23-yanishi1221/blob/main/weekly-reports/2023_12_07.md#report-15---week-of-12072023)
     
-- [Report 16 - Week of 12/07/23](https://github.com/Berkeley-MDes/tdf-fa23-yanishi1221/blob/main/weekly-reports/2023_12_14.md#report-16---week-of-12142023)
+- [Report 16 - Week of 12/14/23](https://github.com/Berkeley-MDes/tdf-fa23-yanishi1221/blob/main/weekly-reports/2023_12_14.md#report-16---week-of-12142023)
