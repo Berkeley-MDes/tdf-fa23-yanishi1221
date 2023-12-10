@@ -19,3 +19,14 @@
 
 - [Report 10 - Week of 11/02/23](https://github.com/Berkeley-MDes/tdf-fa23-yanishi1221/blob/main/weekly-reports/2023_11_02.md#report-10---week-of-11022023)
 
+- [Report 11 - Week of 11/09/23](https://github.com/Berkeley-MDes/tdf-fa23-yanishi1221/blob/main/weekly-reports/2023_11_09.md#report-11---week-of-11092023)
+
+- [Report 12 - Week of 11/16/23](https://github.com/Berkeley-MDes/tdf-fa23-yanishi1221/blob/main/weekly-reports/2023_11_16.md#report-12---week-of-11162023)
+
+- [Report 13 - Week of 11/23/23](https://github.com/Berkeley-MDes/tdf-fa23-yanishi1221/blob/main/weekly-reports/2023_11_23.md#report-13---week-of-11232023)
+  
+- [Report 14 - Week of 11/30/23](https://github.com/Berkeley-MDes/tdf-fa23-yanishi1221/blob/main/weekly-reports/2023_11_30.md#report-14---week-of-11302023)
+  
+- [Report 15 - Week of 12/07/23](https://github.com/Berkeley-MDes/tdf-fa23-yanishi1221/blob/main/weekly-reports/2023_12_07.md#report-15---week-of-12072023)
+    
+- [Report 16 - Week of 12/07/23](https://github.com/Berkeley-MDes/tdf-fa23-yanishi1221/blob/main/weekly-reports/2023_12_14.md#report-16---week-of-12142023)
